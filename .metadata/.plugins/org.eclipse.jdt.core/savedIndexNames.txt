@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/home/denis/Documents/ws-sts/sdsuno/.metadata/.plugins/org.eclipse.jdt.core
