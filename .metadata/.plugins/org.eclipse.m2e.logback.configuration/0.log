@@ -1688,3 +1688,154 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2020-09-15 22:14:11,871 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-09-15 22:14:11,875 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-15 22:14:11,875 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:21:50,045 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:21:50,046 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:21:50,048 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:21:50,052 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:21:50,053 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:21:59,858 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:21:59,863 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:21:59,874 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:21:59,880 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:21:59,880 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:22:54,017 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:22:54,018 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:22:54,019 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:22:54,021 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:22:54,021 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:24:02,459 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:24:02,460 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:24:02,462 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:24:02,464 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:24:02,465 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:24:46,496 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:24:46,497 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:24:46,499 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:24:46,508 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:24:46,508 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:25:02,648 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:25:02,648 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:25:02,651 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:25:02,654 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:25:02,654 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:25:12,917 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:25:12,918 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:25:12,920 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:25:12,923 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:25:12,923 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:28:02,797 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:28:02,797 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:28:02,800 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:28:02,803 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:28:02,803 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:28:31,517 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:28:31,518 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:28:31,520 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:28:31,523 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:28:31,524 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:28:43,638 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:28:43,639 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:28:43,641 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:28:43,653 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:28:43,654 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:39:57,518 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:39:57,520 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:39:57,521 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-15 22:39:57,525 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:39:57,525 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:43:05,201 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:43:05,223 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:43:05,225 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:43:05,229 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:43:05,229 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:43:23,615 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:43:23,616 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:43:23,618 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:43:23,620 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:43:23,621 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:45:55,689 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:45:55,690 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:45:55,692 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:45:55,695 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:45:55,695 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:47:02,451 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:47:02,452 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:47:02,453 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:47:02,455 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:47:02,455 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:47:28,205 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:47:28,206 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:47:28,209 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:47:28,212 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:47:28,212 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:47:38,013 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:47:38,014 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:47:38,015 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-15 22:47:38,020 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:47:38,020 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:49:02,316 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:49:02,316 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:49:02,319 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:49:02,322 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:49:02,322 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:53:01,619 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:53:01,620 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:53:01,621 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:53:01,623 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:53:01,623 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:54:24,417 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:54:24,418 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:54:24,421 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:54:24,423 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:54:24,423 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:54:56,246 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:54:56,247 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:54:56,249 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:54:56,253 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:54:56,253 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:56:00,433 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:56:00,434 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:56:00,436 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:56:00,437 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:56:00,438 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:56:48,509 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:56:48,509 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:56:48,511 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:56:48,517 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:56:48,517 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:57:02,756 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:57:02,756 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:57:02,758 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:57:02,760 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:57:02,760 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:57:56,167 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:57:56,168 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:57:56,170 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:57:56,173 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:57:56,173 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 22:59:46,937 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:59:46,938 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 22:59:46,939 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 22:59:46,941 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 22:59:46,941 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 23:00:20,395 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 23:00:20,396 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 23:00:20,398 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 23:00:20,401 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 23:00:20,401 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 23:00:35,104 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 23:00:35,112 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 23:00:35,114 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 23:00:35,118 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 23:00:35,118 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 23:00:55,241 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 23:00:55,241 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 23:00:55,243 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 23:00:55,246 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 23:00:55,246 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-15 23:02:56,219 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 23:02:56,220 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-09-15 23:02:56,221 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 23:02:56,224 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 23:02:56,224 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/denis/Documents/ws-sts/sdsuno/dspesquisa/backend/src/test/resources
+2020-09-16 20:06:27,030 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
